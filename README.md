@@ -30,7 +30,7 @@ VScode + PlatformIO
 ### Python
 1. create and paste from [requirements.txt](script/requirements.txt) 
 2. paste the below in terminal
-``` pip freeze > requirements.txt```
+```pip install -r requirements.txt```
 3. create and paste [control_screen.py](script/control_screen.py)
 4. run python file while connected to arduino UNO board
 
