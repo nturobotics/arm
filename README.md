@@ -7,13 +7,27 @@ Robotic arm with arduino uno
 # BOM
 [Google sheets](https://docs.google.com/spreadsheets/d/1iTVFNJzW-89m5eGzNgUOlDTH-qVcBC-gSiHKc8zezOk/edit?usp=sharing)
 
+# Code
+# C++
+# Python
+
 
 # Design
 ## Board box
+[OnShape](https://cad.onshape.com/documents/f77709e5ce5be262c520dafa/w/4b2eb07887c0c508498d0155/e/a5fcd016c12caa61ba753ae8?renderMode=0&uiState=6abcc5dc0b570a9f2b8378fc)
+
 ### Outer wall
 <img width="535" height="530" alt="square" src="https://github.com/user-attachments/assets/878be83b-43e8-4781-ad3f-8646950397f2" />
 
-[OnShape](https://cad.onshape.com/documents/f77709e5ce5be262c520dafa/w/4b2eb07887c0c508498d0155/e/a5fcd016c12caa61ba753ae8?renderMode=0&uiState=6abcc5dc0b570a9f2b8378fc)
+### Inner Wall
+<img width="601" height="546" alt="image" src="https://github.com/user-attachments/assets/2cf1beed-5077-4144-bfc9-4fedb46fa51d" />
+
+### Upper Holes
+<img width="563" height="507" alt="image" src="https://github.com/user-attachments/assets/8dfe1741-86aa-4f4d-9d68-ecc78ad46b2b" />
+
+### Side Holes
+<img width="563" height="507" alt="image" src="https://github.com/user-attachments/assets/f2068181-1d4d-4f1f-b4e9-99a0016e3cad" />
+
 
 ## Motor box
 ## Arm
