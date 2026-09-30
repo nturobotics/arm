@@ -7,7 +7,7 @@
 - [Code](#code)
 - [Wiring](#wiring)
 - [Design](#design)
-- 
+- [Contributions](#contributions)
   
 Robotic arm with arduino uno
 
@@ -65,7 +65,7 @@ VScode + PlatformIO
 
 [OnShape](https://cad.onshape.com/documents/761557366b316c90763acd4c/w/99afad2b5040069016dce09f/e/a711ace2a2d7c05e5d14087f?renderMode=0&uiState=6abcc23a1a6abfafb3fded53)
 
-# Credits
+# Contributions
 - Arm Design & code 王齊均
 - Claw Design 林珈亘
 - Air digits [Hsin-Yen](https://github.com/clchrf)
