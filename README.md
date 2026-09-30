@@ -1,6 +1,10 @@
-# Arm
 <img width="400" alt="arm_pic" src="https://github.com/user-attachments/assets/7e8b1a35-48b7-4102-b9b3-a2102b5a1f15"/>
 
+# Outline
+- [Materials](#bom)
+- [Code](#code)
+- [Design](#design)
+  
 Robotic arm with arduino uno
 
 
@@ -8,11 +12,25 @@ Robotic arm with arduino uno
 [Google sheets](https://docs.google.com/spreadsheets/d/1iTVFNJzW-89m5eGzNgUOlDTH-qVcBC-gSiHKc8zezOk/edit?usp=sharing)
 
 # Code
-# C++
-# Python
 
+## VScode + PlatformIO
+1. Install PlatformIO plugin in VScode
+2. Choose New Project
+3. Choose Arduino UNO as board
+### C++
+1. create and paste src > [main.cpp](script/main.cpp)
+2. create and paste [platformio.ini](script/platformio.ini)
+3. Upload code to Arduino UNO board
+
+### Python
+1. create and paste from [requirements.txt](script/requirements.txt) 
+2. paste the below in terminal
+``` pip freeze > requirements.txt```
+3. create and paste [control_screen.py](script/control_screen.py)
+4. run python file while connected to arduino UNO board
 
 # Design
+
 ## Board box
 [OnShape](https://cad.onshape.com/documents/f77709e5ce5be262c520dafa/w/4b2eb07887c0c508498d0155/e/a5fcd016c12caa61ba753ae8?renderMode=0&uiState=6abcc5dc0b570a9f2b8378fc)
 
