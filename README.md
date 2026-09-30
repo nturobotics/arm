@@ -1,9 +1,13 @@
 <img width="400" alt="arm_pic" src="https://github.com/user-attachments/assets/7e8b1a35-48b7-4102-b9b3-a2102b5a1f15"/>
 
+[](https://github.com/user-attachments/assets/8f888bc7-2a79-4761-b7e8-ac3f96ce00dd)
+
 # Outline
 - [Materials](#bom)
 - [Code](#code)
+- [Wiring](#wiring)
 - [Design](#design)
+- 
   
 Robotic arm with arduino uno
 
@@ -13,7 +17,8 @@ Robotic arm with arduino uno
 
 # Code
 
-## VScode + PlatformIO
+## Basic + Claw
+VScode + PlatformIO
 1. Install PlatformIO plugin in VScode
 2. Choose New Project
 3. Choose Arduino UNO as board
@@ -28,6 +33,11 @@ Robotic arm with arduino uno
 ``` pip freeze > requirements.txt```
 3. create and paste [control_screen.py](script/control_screen.py)
 4. run python file while connected to arduino UNO board
+
+## Air Digits
+[Github repository](https://github.com/clchrf/ntu-robotics-2026-robotarm-air-digits)
+
+# Wiring
 
 # Design
 
@@ -54,3 +64,8 @@ Robotic arm with arduino uno
 <img width="400" alt="claw" src="https://github.com/user-attachments/assets/e9996fb6-2195-4e39-9d38-de831cacae0c" />
 
 [OnShape](https://cad.onshape.com/documents/761557366b316c90763acd4c/w/99afad2b5040069016dce09f/e/a711ace2a2d7c05e5d14087f?renderMode=0&uiState=6abcc23a1a6abfafb3fded53)
+
+# Credits
+- Arm Design & code 王齊均
+- Claw Design 林珈亘
+- Air digits [Hsin-Yen](https://github.com/clchrf)
